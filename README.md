@@ -16,8 +16,7 @@
 - **Full CRUD Operations for Secure Notes**
 - **React Frontend with Tailwind CSS**
 
-## 📸 Screenshots
-(Upload screenshots of your project here)
+
 
 ## 🏗 Tech Stack
 ### Backend:
@@ -33,9 +32,7 @@
 - **Tailwind CSS**
 - **React Hook Forms**
 
-### DevOps & Deployment:
-- **Docker** (for containerization)
-- **AWS / Render / Vercel** (Deployment - coming soon!)
+
 
 ## 📂 Folder Structure
 ```
@@ -75,7 +72,7 @@ npm start
 Soon, you’ll be able to **use Secure Notes online** and create notes in a secure way! Stay tuned for updates. 🚀
 
 ## 🔗 Links
-- **GitHub Repository:** [Secure Notes](https://github.com/yourusername/secure-notes)
+- **GitHub Repository:** [Secure Notes](https://github.com/satyamkumarmishra2005/Secure-Notes)
 - **Live Demo:** Coming Soon!
 
 ## 📜 License
