@@ -50,8 +50,8 @@ secure-notes/
 ## 🔧 Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/secure-notes.git
-cd secure-notes
+git clone https://github.com/satyamkumarmishra2005/Secure-Notes.git
+cd Secure-Notes
 ```
 
 ### 2️⃣ Backend Setup (Spring Boot)
